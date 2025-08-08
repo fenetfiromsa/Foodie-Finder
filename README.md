@@ -1,12 +1,30 @@
-# React + Vite
+# Foodie Finder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Foodie Finder is a React-based web application that helps users discover meals from around the world. Browse meal categories, view delicious recipes, and search meals by name or ingredient — all powered by TheMealDB API.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- View all meal categories with images  
+- Browse meals by category  
+- Search meals by name or ingredient  
+- Responsive design with Tailwind CSS  
+- Clean and modern UI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Technologies Used
+
+- React.js (Functional components & Hooks)  
+- Tailwind CSS for styling  
+- TheMealDB API for meal data  
+- Fetch API for data fetching  
+
+---
+
+## Installation
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/fenetfiromsa/foodie-finder.git
